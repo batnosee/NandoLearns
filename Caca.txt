@@ -1,1 +1,1 @@
-Mensaje conflictivo
+Texto diferente para comprobar que hay un conflicto
